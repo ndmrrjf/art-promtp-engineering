@@ -8,7 +8,7 @@ Mentee assignment from IBM Advance AI @ Infinte Learning course completion of bu
 
 ## 🚀 Mentee Info
 
-**Name :** Fajar Ramadhana
+**Name :** Fajar Ramadhan
 
 **Program :** IBM Advance AI
 
